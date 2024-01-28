@@ -1,5 +1,7 @@
 (fp_lib_table
-  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "kbd")(type "KiCad")(uri "/home/kabbone/Projects/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
   (lib (name "gateron-ks27")(type "KiCad")(uri "${KIPRJMOD}/gateron-ks27.pretty")(options "")(descr ""))
   (lib (name "nice_view")(type "KiCad")(uri "${KIPRJMOD}/nice_view.pretty")(options "")(descr ""))
+  (lib (name "kbd_shapes")(type "KiCad")(uri "/home/kabbone/Projects/kbd/kicad-packages3D/kbd.3dshapes")(options "")(descr ""))
 )
